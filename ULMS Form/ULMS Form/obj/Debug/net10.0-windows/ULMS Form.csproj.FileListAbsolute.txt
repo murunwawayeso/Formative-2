@@ -1,0 +1,16 @@
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\obj\Debug\net10.0-windows\ULMSWinFormsAppClient.Form1.resources
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\obj\Debug\net10.0-windows\ULMS Form.csproj.GenerateResource.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\obj\Debug\net10.0-windows\ULMS Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\obj\Debug\net10.0-windows\ULMS Form.AssemblyInfoInputs.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\obj\Debug\net10.0-windows\ULMS Form.AssemblyInfo.cs
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\obj\Debug\net10.0-windows\ULMS Form.csproj.CoreCompileInputs.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\bin\Debug\net10.0-windows\ULMS Form.exe
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\bin\Debug\net10.0-windows\ULMS Form.deps.json
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\bin\Debug\net10.0-windows\ULMS Form.runtimeconfig.json
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\bin\Debug\net10.0-windows\ULMS Form.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\bin\Debug\net10.0-windows\ULMS Form.pdb
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\obj\Debug\net10.0-windows\ULMS Form.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\obj\Debug\net10.0-windows\refint\ULMS Form.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\obj\Debug\net10.0-windows\ULMS Form.pdb
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\obj\Debug\net10.0-windows\ULMS Form.genruntimeconfig.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\ULMS Form\ULMS Form\obj\Debug\net10.0-windows\ref\ULMS Form.dll
